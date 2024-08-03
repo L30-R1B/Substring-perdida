@@ -9,7 +9,6 @@ Este projeto é um analisador de desempenho para algoritmos de casamento de stri
 - [Uso](#uso)
 - [Configuração](#configuração)
 - [Medição de Tempo](#medição-de-tempo)
-- [Licença](#licença)
 
 ## Descrição
 
@@ -79,10 +78,3 @@ Força bruta :
         Tempo total   : 0.001134
 ----------------------------------------------
 ```
-
-## Licença
-
-Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-```
-
-Você pode copiar e colar este texto diretamente em um arquivo `README.md` no seu repositório GitHub.
