@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "time.h": "c",
+        "gerenciador_exec_paralela.h": "c"
+    }
+}

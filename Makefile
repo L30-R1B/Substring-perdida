@@ -5,16 +5,16 @@ CC = gcc
 CFLAGS = -Wall -Wextra -g
 
 # Nome do executável
-TARGET = tp1
+TARGET = tp3
 
 # Diretório de saída para os arquivos objeto
 OBJDIR = obj
 
 # Lista de arquivos fonte
-SOURCES = src/main.c src/kmp.c
+SOURCES = src/main.c src/kmp.c src/forca_bruta.c src/shift_and.c src/utils.c src/execute.c
 
 # Lista de cabeçalhos
-HEADERS = include/kmp.h
+HEADERS = include/kmp.h include/forca_bruta.h include/shift_and.h include/utils.h include/execute.h
 
 # Gera os nomes dos arquivos objeto
 OBJECTS = $(patsubst src/%.c,$(OBJDIR)/%.o,$(SOURCES))

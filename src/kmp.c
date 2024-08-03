@@ -2,13 +2,13 @@
 #include <string.h>
 #include "../include/kmp.h"
 
-static void compute_lps_array(const char *pattern, int m, int *lps) {
+static void compute_lps_array(const char *padrao, int m, int *lps) {
     int len = 0;
     lps[0] = 0;
     int i = 1;
 
     while (i < m) {
-        if (pattern[i] == pattern[len]) {
+        if (padrao[i] == padrao[len]) {
             len++;
             lps[i] = len;
             i++;
@@ -23,23 +23,23 @@ static void compute_lps_array(const char *pattern, int m, int *lps) {
     }
 }
 
-int kmp(const char *text, const char *pattern) {
-    int n = strlen(text);
-    int m = strlen(pattern);
+int kmp(const char *texto, const char *padrao) {
+    int n = strlen(texto);
+    int m = strlen(padrao);
     int *lps = (int *)malloc(sizeof(int) * m);
     int i = 0, j = 0;
 
-    compute_lps_array(pattern, m, lps);
+    compute_lps_array(padrao, m, lps);
 
     while (i < n) {
-        if (pattern[j] == text[i]) {
+        if (padrao[j] == texto[i]) {
             j++;
             i++;
         }
         if (j == m) {
             free(lps);
             return 1;
-        } else if (i < n && pattern[j] != text[i]) {
+        } else if (i < n && padrao[j] != texto[i]) {
             if (j != 0) {
                 j = lps[j - 1];
             } else {
