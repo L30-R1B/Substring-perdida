@@ -107,9 +107,13 @@ int main(int argc, char *argv[]) {
             }
         }
 
+        struct timeval start_time, end_time;
+    
+        gettimeofday(&start_time, NULL);
         for (unsigned i = 0; i < qtdFuncoes; i++) {
             pthread_join(threads[i], NULL);
         }
+        gettimeofday(&end_time, NULL);
 
         for (unsigned i = 0; i < qtdFuncoes; i++) {
             printf("----------------------------------------------\n");
@@ -122,8 +126,11 @@ int main(int argc, char *argv[]) {
             
             printf("\tTempo sistema : %lf\n", p[i].tempo.sistema);
             printf("\tTempo usuario : %lf\n", p[i].tempo.usuario);
-            printf("\tTempo total   : %lf\n", p[i].tempo.total);
+            printf("\tTotal (alg)   : %lf\n", p[i].tempo.total);            
         }
+        printf("----------------------------------------------\n");
+
+        printf("\tTempo total   : %lf\n", tempo_total(&start_time, &end_time));
         printf("----------------------------------------------\n");
     }
 

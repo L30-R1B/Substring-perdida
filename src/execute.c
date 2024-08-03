@@ -1,8 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <pthread.h>
 #include <sys/time.h>
 #include <sys/resource.h>
-#include <pthread.h>
+#include <time.h>
 
 #include "../include/execute.h"
 #include "../include/utils.h"
@@ -16,27 +17,39 @@ void executa_algoritmo_casamento(Metodo alg, const char *texto, const char *padr
             return;
         }
     }
-
     char *querie = NULL;
     int resul;
-    for (unsigned i = 0; i < qtdIntervalos; i++) {
-        querie = substring(texto, intervalos[i].inicio - 1, intervalos[i].fim - 1);
-        resul = alg(querie, padrao);
-        if (escreverOutput) {
-            if (resul)
-                fprintf(f, "sim\n");
-            else
-                fprintf(f, "nao\n");
+    if(escreverOutput)
+        for (unsigned i = 0; i < qtdIntervalos; i++) {
+            querie = substring(texto, intervalos[i].inicio - 1, intervalos[i].fim - 1);
+            if(querie == NULL){
+                continue;
+            }
+            resul = alg(querie, padrao);
+            if (escreverOutput) {
+                if (resul)
+                    fprintf(f, "sim\n");
+                else
+                    fprintf(f, "nao\n");
+            }
+            free(querie);
         }
-        free(querie);
-    }
+    else
+        for (unsigned i = 0; i < qtdIntervalos; i++) {
+            querie = substring(texto, intervalos[i].inicio - 1, intervalos[i].fim - 1);
+            if(querie == NULL){
+                continue;
+            }
+            alg(querie, padrao);
+            free(querie);
+        }
 
     if (escreverOutput) {
         fclose(f);
     }
 }
 
-void *thread_executa(void *paramTh){
+void *thread_executa(void *paramTh) {
     ParamsThread *p = (ParamsThread *)paramTh;
 
     struct timeval start_time, end_time;
@@ -52,7 +65,8 @@ void *thread_executa(void *paramTh){
 
     p->tempo.sistema = retorna_tempo_sistema(&start, &end);
     p->tempo.usuario = retorna_tempo_usuario(&start, &end);
-    p->tempo.total = (end_time.tv_sec - start_time.tv_sec) + (end_time.tv_usec - start_time.tv_usec) / 1000000.0;
+    p->tempo.total = tempo_total(&start_time, &end_time);
 
     pthread_exit(NULL);
 }
+

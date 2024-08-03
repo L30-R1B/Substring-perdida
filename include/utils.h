@@ -17,8 +17,9 @@ struct Intervalo {
 char *substring(const char* str, int start, int end);
 char *ler_variavel_ambiente(const char *nome_arquivo, const char *nome_variavel);
 
-double retorna_tempo_usuario(struct rusage *start, struct rusage *end);
 double retorna_tempo_sistema(struct rusage *start, struct rusage *end);
+double retorna_tempo_usuario(struct rusage *start, struct rusage *end);
+double tempo_total(struct timeval *start_time, struct timeval *end_time);
 
 unsigned ler_arq_input(const char *nome, char **texto, char **padrao, struct Intervalo **intervalos);
 
