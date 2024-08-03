@@ -1,4 +1,3 @@
-```markdown
 # Análise de Algoritmos de Casamento de Strings
 
 Este projeto é um analisador de desempenho para algoritmos de casamento de strings, implementando três algoritmos diferentes: **KMP**, **Força Bruta** e **Shift-And**. O código é projetado para comparar o tempo de execução dos algoritmos, tanto em execução sequencial quanto paralela usando threads.
