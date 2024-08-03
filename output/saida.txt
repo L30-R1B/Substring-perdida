@@ -115,10 +115,7 @@ sim
 sim
 sim
 sim
-sim
-sim
-sim
-sim
+nao
 sim
 sim
 sim
@@ -145,7 +142,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -186,7 +182,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -529,12 +524,12 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -555,12 +550,10 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -896,7 +889,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -933,6 +925,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -979,7 +972,6 @@ sim
 sim
 sim
 nao
-sim
 sim
 sim
 sim
@@ -1025,7 +1017,7 @@ sim
 sim
 sim
 sim
-sim
+nao
 sim
 sim
 sim
@@ -1143,7 +1135,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -1225,6 +1216,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -1250,7 +1242,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -1283,12 +1274,12 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -1314,6 +1305,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -1331,7 +1323,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -1360,12 +1351,12 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -1495,7 +1486,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -1530,7 +1520,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -1612,6 +1601,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -1653,7 +1643,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -1745,7 +1734,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -1836,7 +1824,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -1871,7 +1858,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -1984,7 +1970,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -2008,6 +1993,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -2207,7 +2193,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -2389,6 +2374,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -2440,7 +2426,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -2579,9 +2564,12 @@ sim
 sim
 sim
 sim
+nao
+nao
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -2638,6 +2626,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -2653,7 +2642,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -2774,7 +2762,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -2812,7 +2799,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -2849,7 +2835,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -2938,7 +2923,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -3201,6 +3185,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -3244,7 +3229,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -3265,6 +3249,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -3291,6 +3276,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -3355,6 +3341,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -3392,7 +3379,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -3426,7 +3412,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -3585,7 +3570,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -3603,7 +3587,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -3692,12 +3675,14 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -3724,7 +3709,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -3831,6 +3815,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -3863,7 +3848,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -3878,6 +3862,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -4010,7 +3995,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -4095,6 +4079,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -4181,7 +4166,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -4202,7 +4186,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -4274,7 +4257,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -4450,7 +4432,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -4783,6 +4764,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -4883,7 +4865,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -4905,7 +4886,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -5115,11 +5095,11 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -5200,7 +5180,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -5304,7 +5283,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -5496,7 +5474,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -5540,6 +5517,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -5720,14 +5698,12 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -5758,6 +5734,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -5876,7 +5853,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -5993,6 +5969,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -6065,7 +6042,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -6086,7 +6062,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -6144,7 +6119,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -6274,7 +6248,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -6415,7 +6388,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -6507,7 +6479,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -6636,7 +6607,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -6810,6 +6780,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -6826,7 +6797,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -6898,7 +6868,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -6918,6 +6887,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -6949,7 +6919,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -6973,7 +6942,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -7018,7 +6986,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -7104,7 +7071,6 @@ sim
 sim
 sim
 nao
-sim
 sim
 sim
 sim
@@ -7327,9 +7293,9 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
-nao
 sim
 sim
 sim
@@ -7346,7 +7312,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -7388,13 +7353,13 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -7681,6 +7646,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -7732,6 +7698,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -7759,7 +7726,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -7920,7 +7886,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -7938,7 +7903,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -7959,6 +7923,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -7976,7 +7941,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -8014,7 +7978,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -8033,7 +7996,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -8096,6 +8058,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -8143,7 +8106,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -8363,9 +8325,9 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
+nao
 sim
 sim
 sim
@@ -8456,7 +8418,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -8477,6 +8438,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -8551,6 +8513,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -8576,6 +8539,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -8683,7 +8647,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -8772,7 +8735,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -8858,7 +8820,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -8951,7 +8912,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -8976,7 +8936,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -9012,6 +8971,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -9057,7 +9017,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -9118,7 +9077,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -9289,6 +9247,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -9311,7 +9270,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -9396,6 +9354,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -9536,7 +9495,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -9723,7 +9681,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -9738,7 +9695,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -9758,7 +9714,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -9902,7 +9857,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -10204,6 +10158,8 @@ sim
 sim
 sim
 sim
+nao
+nao
 sim
 sim
 sim
@@ -10216,13 +10172,13 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -10296,14 +10252,12 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -10532,7 +10486,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -10668,7 +10621,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -10722,9 +10674,9 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
-nao
 sim
 sim
 sim
@@ -10797,13 +10749,10 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
-nao
 sim
 sim
-nao
 sim
 sim
 sim
@@ -10884,7 +10833,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -10945,7 +10893,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -10984,7 +10931,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -11019,8 +10965,6 @@ sim
 sim
 sim
 sim
-nao
-nao
 sim
 sim
 sim
@@ -11058,13 +11002,11 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -11093,7 +11035,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -11130,7 +11071,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -11252,6 +11192,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -11269,6 +11210,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -11519,7 +11461,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -11552,7 +11493,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -11683,7 +11623,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -11757,7 +11696,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -11804,6 +11742,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -11835,7 +11774,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -11926,7 +11864,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -11940,7 +11877,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -11963,6 +11899,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -12050,7 +11987,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -12112,7 +12048,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -12180,6 +12115,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -12305,6 +12241,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -12416,6 +12353,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -12429,6 +12367,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -12492,6 +12431,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -12537,7 +12477,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -12608,6 +12547,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -12761,7 +12701,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -12818,8 +12757,6 @@ sim
 sim
 sim
 sim
-nao
-nao
 sim
 sim
 sim
@@ -12856,7 +12793,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -12872,7 +12808,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -12922,7 +12857,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -12941,7 +12875,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -13138,13 +13071,13 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -13192,7 +13125,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -13205,7 +13137,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -13277,7 +13208,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -13304,6 +13234,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -13470,7 +13401,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -13514,7 +13444,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -13612,6 +13541,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -13621,7 +13551,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -13702,7 +13631,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -13796,7 +13724,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -13826,7 +13753,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -13985,6 +13911,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -14077,7 +14004,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -14192,7 +14118,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -14284,6 +14209,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -14306,7 +14232,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -14380,6 +14305,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -14430,6 +14356,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -14469,6 +14396,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -14482,7 +14410,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -14540,7 +14467,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -14609,7 +14535,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -14748,7 +14673,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -14811,6 +14735,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -14887,8 +14812,6 @@ sim
 sim
 sim
 sim
-nao
-nao
 sim
 sim
 sim
@@ -15029,7 +14952,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -15242,12 +15164,10 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -15272,7 +15192,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -15329,6 +15248,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -15455,7 +15375,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -15523,7 +15442,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -15878,7 +15796,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -16030,7 +15947,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -16045,10 +15961,10 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -16115,6 +16031,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -16134,7 +16051,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -16150,6 +16066,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -16180,7 +16097,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -16224,7 +16140,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -16264,6 +16179,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -16388,7 +16304,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -16475,6 +16390,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -16581,6 +16497,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -16690,7 +16607,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -16896,7 +16812,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -17019,7 +16934,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -17146,6 +17060,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -17172,7 +17087,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -17414,7 +17328,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -17636,7 +17549,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -17769,17 +17681,14 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -17834,6 +17743,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -17932,6 +17842,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -18123,7 +18034,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -18352,7 +18262,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -18458,7 +18367,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -18542,6 +18450,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -18691,9 +18600,11 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -18737,7 +18648,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -18783,6 +18693,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -18867,7 +18778,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -18891,6 +18801,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -19100,7 +19011,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -19196,6 +19106,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -19276,7 +19187,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -19382,7 +19292,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -19472,6 +19381,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -19507,7 +19417,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -19540,7 +19449,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -19639,7 +19547,7 @@ sim
 sim
 sim
 sim
-nao
+sim
 sim
 sim
 sim
@@ -20042,6 +19950,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -20114,7 +20023,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -20182,7 +20090,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -20350,7 +20257,7 @@ sim
 sim
 sim
 sim
-nao
+sim
 sim
 sim
 sim
@@ -20377,6 +20284,15 @@ sim
 sim
 sim
 sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
 nao
 sim
 sim
@@ -20527,7 +20443,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -20627,7 +20542,7 @@ sim
 sim
 sim
 sim
-nao
+sim
 sim
 sim
 sim
@@ -20657,10 +20572,12 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -20685,7 +20602,21 @@ sim
 sim
 sim
 sim
-nao
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
 sim
 sim
 sim
@@ -20865,7 +20796,17 @@ sim
 sim
 sim
 sim
+sim
+sim
+sim
+sim
+sim
 nao
+sim
+sim
+sim
+sim
+sim
 sim
 sim
 sim
@@ -20891,6 +20832,8 @@ sim
 sim
 sim
 sim
+nao
+sim
 sim
 sim
 sim
@@ -20963,6 +20906,7 @@ sim
 sim
 sim
 sim
+sim
 nao
 sim
 sim
@@ -21096,10 +21040,8 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
-nao
 sim
 sim
 sim
@@ -21190,6 +21132,8 @@ sim
 sim
 sim
 sim
+nao
+sim
 sim
 sim
 sim
@@ -21220,6 +21164,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -21253,7 +21198,7 @@ sim
 sim
 sim
 sim
-nao
+sim
 sim
 sim
 sim
@@ -21334,7 +21279,28 @@ sim
 sim
 sim
 sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
 nao
+sim
+sim
+sim
+sim
 sim
 sim
 sim
@@ -21417,6 +21383,8 @@ sim
 sim
 sim
 sim
+nao
+sim
 sim
 sim
 sim
@@ -21446,15 +21414,43 @@ sim
 sim
 sim
 sim
+sim
 nao
+sim
+sim
 sim
 sim
 sim
+sim
+sim
 nao
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
 sim
 sim
 sim
 sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
 nao
 sim
 sim
@@ -21497,6 +21493,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -21680,7 +21677,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -21711,7 +21707,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -21734,7 +21729,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -21774,6 +21768,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -21922,6 +21917,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -22037,6 +22033,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -22203,7 +22200,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -22245,7 +22241,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -22257,7 +22252,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -22286,7 +22280,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -22425,7 +22418,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -22501,6 +22493,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -22562,7 +22555,12 @@ sim
 sim
 sim
 sim
-nao
+sim
+sim
+sim
+sim
+sim
+sim
 sim
 sim
 sim
@@ -22670,6 +22668,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -22737,6 +22736,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -22755,7 +22755,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -22769,7 +22768,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -22807,7 +22805,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -22834,7 +22831,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -22854,7 +22850,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -23095,6 +23090,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -23189,7 +23185,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -23295,7 +23290,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -23312,7 +23306,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -23464,7 +23457,9 @@ sim
 sim
 sim
 sim
-nao
+sim
+sim
+sim
 sim
 sim
 sim
@@ -23576,6 +23571,9 @@ sim
 sim
 sim
 sim
+sim
+sim
+sim
 nao
 sim
 sim
@@ -23589,7 +23587,7 @@ sim
 sim
 sim
 sim
-nao
+sim
 sim
 sim
 sim
@@ -23679,6 +23677,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -23712,7 +23711,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -23743,11 +23741,11 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -23859,7 +23857,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -23958,6 +23955,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -23987,7 +23985,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -24027,7 +24024,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -24073,6 +24069,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -24120,6 +24117,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -24137,6 +24135,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -24327,7 +24326,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -24375,7 +24373,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -24590,7 +24587,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -24605,7 +24601,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -24742,10 +24737,9 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
-nao
+sim
 sim
 sim
 sim
@@ -24760,7 +24754,10 @@ sim
 sim
 sim
 sim
+sim
+sim
 nao
+sim
 sim
 sim
 sim
@@ -24869,6 +24866,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -25067,7 +25065,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -25220,7 +25217,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -25443,7 +25439,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -25573,6 +25568,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -25632,6 +25628,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -25694,7 +25691,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -25739,7 +25735,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -25751,7 +25746,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -25865,7 +25859,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -25920,6 +25913,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -25951,6 +25945,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -25973,11 +25968,9 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -26213,7 +26206,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -26320,7 +26312,10 @@ sim
 sim
 sim
 sim
-nao
+sim
+sim
+sim
+sim
 sim
 sim
 sim
@@ -26431,6 +26426,7 @@ sim
 sim
 sim
 sim
+sim
 nao
 sim
 sim
@@ -26497,7 +26493,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -26704,6 +26699,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -26851,6 +26847,8 @@ sim
 sim
 sim
 sim
+sim
+nao
 sim
 sim
 sim
@@ -26869,6 +26867,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -26923,7 +26922,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -26951,6 +26949,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -26980,7 +26979,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -27345,9 +27343,38 @@ sim
 sim
 sim
 sim
-nao
 sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
 nao
+sim
+sim
+sim
+sim
+sim
+sim
 sim
 sim
 sim
@@ -27425,6 +27452,16 @@ sim
 sim
 sim
 sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
 nao
 sim
 sim
@@ -27446,7 +27483,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -27493,6 +27529,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -27519,7 +27556,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -27694,7 +27730,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -27731,7 +27766,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -27911,7 +27945,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -27930,6 +27963,8 @@ sim
 sim
 sim
 sim
+nao
+sim
 sim
 sim
 sim
@@ -28221,6 +28256,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -28328,12 +28364,10 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -28428,6 +28462,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -28502,7 +28537,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -28608,7 +28642,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -28720,8 +28753,6 @@ sim
 sim
 sim
 sim
-nao
-nao
 sim
 sim
 sim
@@ -28780,6 +28811,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -28953,7 +28985,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -29001,7 +29032,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -29086,7 +29116,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -29250,7 +29279,26 @@ sim
 sim
 sim
 sim
-nao
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
 sim
 sim
 sim
@@ -29362,6 +29410,15 @@ sim
 sim
 sim
 sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
 nao
 sim
 sim
@@ -29449,7 +29506,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -29606,6 +29662,11 @@ sim
 sim
 sim
 sim
+nao
+sim
+sim
+sim
+sim
 sim
 sim
 sim
@@ -29618,6 +29679,8 @@ sim
 sim
 sim
 sim
+sim
+sim
 nao
 sim
 sim
@@ -29705,7 +29768,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -29713,7 +29775,7 @@ sim
 sim
 sim
 sim
-nao
+sim
 sim
 sim
 sim
@@ -29734,10 +29796,13 @@ sim
 sim
 sim
 sim
+nao
+sim
 sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -29984,7 +30049,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -30124,7 +30188,22 @@ sim
 sim
 sim
 sim
-nao
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
+sim
 sim
 sim
 sim
@@ -30157,7 +30236,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -30177,7 +30255,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -30249,7 +30326,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -30297,11 +30373,13 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -30455,7 +30533,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -30489,7 +30566,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -30989,10 +31065,12 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -31046,8 +31124,6 @@ sim
 sim
 sim
 sim
-nao
-nao
 sim
 sim
 sim
@@ -31090,7 +31166,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -31167,7 +31242,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -31310,7 +31384,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -31335,7 +31408,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -31355,15 +31427,14 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
-nao
 sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -31458,7 +31529,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -31467,6 +31537,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -31498,8 +31569,6 @@ sim
 sim
 sim
 sim
-nao
-sim
 sim
 sim
 sim
@@ -31772,7 +31841,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -31793,7 +31861,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -32031,9 +32098,7 @@ sim
 sim
 sim
 sim
-nao
 sim
-nao
 sim
 sim
 sim
@@ -32068,7 +32133,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -32314,7 +32378,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -32330,6 +32393,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -32494,6 +32558,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -32548,6 +32613,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -32627,7 +32693,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -32915,6 +32980,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -33006,6 +33072,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -33058,7 +33125,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -33126,11 +33192,9 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -33184,7 +33248,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -33292,7 +33355,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -33309,7 +33371,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -33472,7 +33533,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -33518,7 +33578,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -33558,7 +33617,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -33642,7 +33700,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -33730,6 +33787,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -33788,7 +33846,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -33899,7 +33956,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -34017,12 +34073,10 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -34081,7 +34135,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -34122,7 +34175,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -34293,6 +34345,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -34344,7 +34397,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -34455,7 +34507,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -34491,6 +34542,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -34519,7 +34571,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -34793,6 +34844,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -34952,6 +35004,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -35090,6 +35143,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -35127,6 +35181,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -35271,7 +35326,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -35285,7 +35339,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -35350,7 +35403,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -35362,7 +35414,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -35379,7 +35430,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -35411,7 +35461,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -35441,7 +35490,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -35468,6 +35516,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -35691,6 +35740,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -35710,6 +35760,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -35751,12 +35802,14 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -35782,7 +35835,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -35868,11 +35920,9 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -35954,7 +36004,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -35968,7 +36017,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -35983,6 +36031,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -36070,6 +36119,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -36085,7 +36135,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -36127,7 +36176,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -36169,6 +36217,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -36194,6 +36243,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -36292,7 +36342,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -36581,7 +36630,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -36809,6 +36857,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -36871,12 +36920,12 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -36894,7 +36943,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -36946,7 +36994,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -36980,6 +37027,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -37015,6 +37063,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -37028,7 +37077,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -37255,7 +37303,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -37301,6 +37348,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -37342,7 +37390,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -37577,6 +37624,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -38016,7 +38064,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -38253,7 +38300,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -38293,6 +38339,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -38430,6 +38477,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -38483,7 +38531,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -38545,7 +38592,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -38582,7 +38628,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -38699,7 +38744,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -38756,7 +38800,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -38768,6 +38811,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -38844,7 +38888,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -38853,7 +38896,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -38864,7 +38906,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -38879,6 +38920,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -38964,7 +39006,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -39062,7 +39103,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -39075,7 +39115,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -39120,7 +39159,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -39160,7 +39198,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -39181,7 +39218,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -39286,7 +39322,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -39305,6 +39340,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -39350,7 +39386,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -39377,7 +39412,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -39391,7 +39425,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -39586,12 +39619,10 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -39691,6 +39722,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -39748,7 +39780,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -39758,7 +39789,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -40022,13 +40052,13 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -40089,7 +40119,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -40145,6 +40174,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -40152,6 +40182,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -40228,7 +40259,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -40308,6 +40338,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -40565,7 +40596,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -40653,7 +40683,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -41040,7 +41069,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -41217,6 +41245,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -41225,12 +41254,14 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -41451,6 +41482,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -41464,7 +41496,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -41522,7 +41553,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -41745,7 +41775,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -42060,14 +42089,12 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -42077,7 +42104,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -42127,6 +42153,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -42158,7 +42185,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -42248,7 +42274,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -42264,7 +42289,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -42419,7 +42443,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -42485,7 +42508,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -42513,7 +42535,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -42533,7 +42554,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 nao
@@ -42552,7 +42572,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -42572,9 +42591,11 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -42711,7 +42732,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -42843,7 +42863,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -42942,7 +42961,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -42977,7 +42995,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -43236,7 +43253,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -43411,7 +43427,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -43493,6 +43508,8 @@ sim
 sim
 sim
 sim
+nao
+sim
 sim
 sim
 sim
@@ -43509,6 +43526,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -43693,7 +43711,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -43717,6 +43734,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -43741,6 +43759,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -43772,6 +43791,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -43783,10 +43803,8 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
-nao
 sim
 sim
 sim
@@ -43842,7 +43860,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -43867,7 +43884,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -43893,7 +43909,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -44160,6 +44175,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -44321,6 +44337,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -44346,6 +44363,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -44376,7 +44394,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -44399,7 +44416,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -44502,7 +44518,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -44527,7 +44542,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -44648,6 +44662,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -44729,7 +44744,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -44812,6 +44826,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -44829,7 +44844,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -44955,7 +44969,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -45113,6 +45126,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -45134,7 +45148,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -45349,6 +45362,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -45388,7 +45402,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -45426,6 +45439,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -45476,7 +45490,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -45508,7 +45521,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -45685,6 +45697,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -45785,7 +45798,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -45844,13 +45856,11 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -45937,6 +45947,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -46028,7 +46039,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -46050,7 +46060,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -46187,7 +46196,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -46312,6 +46320,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -46373,6 +46382,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -46407,6 +46417,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -46475,6 +46486,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -46608,7 +46620,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -46666,6 +46677,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -46679,6 +46691,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -46699,7 +46712,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -46754,7 +46766,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -46791,7 +46802,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -46815,6 +46825,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -46859,7 +46870,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -46923,7 +46933,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -47028,6 +47037,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -47065,7 +47075,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -47191,6 +47200,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -47257,12 +47267,10 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -47319,7 +47327,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -47423,7 +47430,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -47462,7 +47468,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -47503,7 +47508,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -47550,7 +47554,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -47646,6 +47649,8 @@ sim
 sim
 sim
 sim
+sim
+nao
 sim
 sim
 sim
@@ -47654,6 +47659,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -47960,7 +47966,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -47975,7 +47980,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -48028,7 +48032,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -48072,6 +48075,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -48195,7 +48199,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -48261,7 +48264,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -48271,7 +48273,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -48293,7 +48294,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -48368,7 +48368,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -48379,6 +48378,8 @@ sim
 sim
 sim
 sim
+sim
+nao
 sim
 sim
 sim
@@ -48494,6 +48495,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -48822,6 +48824,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -48889,7 +48892,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -48956,12 +48958,14 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -49150,7 +49154,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -49174,7 +49177,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -49219,14 +49221,12 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -49448,6 +49448,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -49491,7 +49492,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -49664,7 +49664,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -49705,6 +49704,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -49735,6 +49735,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -49892,7 +49893,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim
@@ -49905,6 +49905,7 @@ sim
 sim
 sim
 sim
+nao
 sim
 sim
 sim
@@ -49920,7 +49921,6 @@ sim
 sim
 sim
 sim
-nao
 sim
 sim
 sim

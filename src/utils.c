@@ -18,6 +18,7 @@ char *substring(const char* str, int start, int end) {
 
     char* sub = (char*)malloc((sub_len + 1) * sizeof(char));
     if (!sub) {
+        printf("Erro: Falha na alocação de memória.\n");
         return NULL;
     }
 
@@ -63,13 +64,21 @@ char *ler_variavel_ambiente(const char *nome_arquivo, const char *nome_variavel)
 }
 
 
-double retorna_tempo_usuario(struct rusage *start, struct rusage *end) {
-  return (end->ru_utime.tv_sec - start->ru_utime.tv_sec) + 1e-6 * (end->ru_utime.tv_usec - start->ru_utime.tv_usec);
-}
 double retorna_tempo_sistema(struct rusage *start, struct rusage *end) {
-  return (end->ru_stime.tv_sec - start->ru_stime.tv_sec) + 1e-6 * (end->ru_stime.tv_usec - start->ru_stime.tv_usec);
+    double start_sistema = (double)start->ru_stime.tv_sec + (double)start->ru_stime.tv_usec / 1000000.0;
+    double end_sistema = (double)end->ru_stime.tv_sec + (double)end->ru_stime.tv_usec / 1000000.0;
+    return end_sistema - start_sistema;
 }
 
+double retorna_tempo_usuario(struct rusage *start, struct rusage *end) {
+    double start_usuario = (double)start->ru_utime.tv_sec + (double)start->ru_utime.tv_usec / 1000000.0;
+    double end_usuario = (double)end->ru_utime.tv_sec + (double)end->ru_utime.tv_usec / 1000000.0;
+    return end_usuario - start_usuario;
+}
+
+double tempo_total(struct timeval *start_time, struct timeval *end_time) {
+    return (end_time->tv_sec - start_time->tv_sec) + (end_time->tv_usec - start_time->tv_usec) / 1000000.0;
+}
 
 unsigned ler_arq_input(const char *nome, char **texto, char **padrao, struct Intervalo **intervalos) {
     FILE *file_input = fopen(nome, "r");
