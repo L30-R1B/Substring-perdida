@@ -5,8 +5,6 @@
 #include <unistd.h>
 #include "../include/utils.h"
 
-#define MAX_LINE_LENGTH 256
-
 char *substring(const char* str, int start, int end) {
     int len = strlen(str);
 

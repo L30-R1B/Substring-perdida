@@ -11,11 +11,7 @@ int shift_and(const char *texto, const char *padrao) {
         return 0;
     }
 
-    bitarray_t *mascaras = (bitarray_t *)calloc(256, sizeof(bitarray_t));
-    if (!mascaras) {
-        perror("Erro ao alocar memória para as máscaras");
-        return 0;
-    }
+    bitarray_t mascaras[256] = {0};
 
     for (int i = 0; i < padraoLen; i++) {
         mascaras[(unsigned char)padrao[i]] |= (1ULL << i);
@@ -26,11 +22,9 @@ int shift_and(const char *texto, const char *padrao) {
     for (int i = 0; texto[i] != '\0'; i++) {
         estado = ((estado << 1) | 1) & mascaras[(unsigned char)texto[i]];
         if (estado & (1ULL << (padraoLen - 1))) {
-            free(mascaras);
             return 1;
         }
     }
 
-    free(mascaras);
     return 0;
 }
