@@ -2,6 +2,10 @@
 #define KMP_H
 
 /**
+ * @brief Desaloca memória alocada para o array lps.
+ */
+void limpa_kmp();
+/**
  * @brief Implementa o algoritmo Knuth-Morris-Pratt (KMP) para busca de padrões em strings.
  *
  * A função kmp verifica se um padrão está presente em um texto usando o algoritmo KMP, que é eficiente para

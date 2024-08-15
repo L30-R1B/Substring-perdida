@@ -62,7 +62,7 @@ char *ler_variavel_ambiente(const char *nome_arquivo, const char *nome_variavel)
 }
 
 
-double retorna_tempo_sistema(struct rusage *start, struct rusage *end) {
+double retorna_tempo_sistema(struct rusage *start, struct rusage *end){
     double start_sistema = (double)start->ru_stime.tv_sec + (double)start->ru_stime.tv_usec / 1000000.0;
     double end_sistema = (double)end->ru_stime.tv_sec + (double)end->ru_stime.tv_usec / 1000000.0;
     return end_sistema - start_sistema;

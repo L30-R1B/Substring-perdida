@@ -1,6 +1,7 @@
 #ifndef _utils_h_
 #define _utils_h_
 
+#include <sys/resource.h>
 
 #define MAX_LINE_LENGTH 256 /**< Tamanho máximo da linha para leitura de variáveis de ambiente. */
 

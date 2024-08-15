@@ -41,7 +41,9 @@ As configurações para o modo de execução e algoritmos a serem usados são de
 
 ```
 EXECUCAO_PARALELA=true
+
 ALGORITMO_PRINCIPAL=kmp
+
 SHIFT_AND=true
 KMP=true
 FORCA_BRUTA=true

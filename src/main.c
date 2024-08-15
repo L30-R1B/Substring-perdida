@@ -40,6 +40,7 @@ int main(int argc, char *argv[]) {
         if(!strcmp(ler_variavel_ambiente("variaveis_ambiente.env", "ALGORITMO_PRINCIPAL"), "kmp")){
             printf("Kmp :\n");
             executa_algoritmo_casamento(kmp, texto, padrao, 1, intervalos, numIntervalos);
+            limpa_kmp();
         }else if(!strcmp(ler_variavel_ambiente("variaveis_ambiente.env", "ALGORITMO_PRINCIPAL"), "forca-bruta")){
             printf("Força bruta :\n");
             executa_algoritmo_casamento(forca_bruta, texto, padrao, 1, intervalos, numIntervalos);
@@ -119,8 +120,10 @@ int main(int argc, char *argv[]) {
             printf("----------------------------------------------\n");
             if(p[i].funcaoExec == 's')
                 printf("Shift and :\n");
-            else if(p[i].funcaoExec == 'k')
+            else if(p[i].funcaoExec == 'k'){
                 printf("Kmp :\n");
+                limpa_kmp();
+            }
             else
                 printf("Força bruta : \n");
             

@@ -2,6 +2,9 @@
 #include <string.h>
 #include "../include/kmp.h"
 
+static int *lps = NULL;
+static int m = 0;
+
 /**
  * @brief Prepara o array de prefixos mais longos que também são sufixos (LPS) usado no algoritmo KMP.
  *
@@ -10,11 +13,11 @@
  * comparações redundantes.
  *
  * @param padrao O padrão para o qual o array LPS será calculado.
- * @param m O comprimento do padrão.
- * @param lps O array LPS que será preenchido pela função.
  */
-static void compute_lps_array(const char *padrao, int m, int *lps) {
+void compute_lps_array(const char *padrao) {
     int len = 0;
+    m = strlen(padrao);
+    lps = (int *)malloc(m * sizeof(int));
     lps[0] = 0;
     int i = 1;
 
@@ -34,13 +37,20 @@ static void compute_lps_array(const char *padrao, int m, int *lps) {
     }
 }
 
-int kmp(const char *texto, const char *padrao) {
-    int n = strlen(texto);
-    int m = strlen(padrao);
-    int lps[m];
-    int i = 0, j = 0;
+void limpa_kmp() {
+    if (lps != NULL) {
+        free(lps);
+        lps = NULL;
+    }
+}
 
-    compute_lps_array(padrao, m, lps);
+int kmp(const char *texto, const char *padrao) {
+    if (!m) {
+        compute_lps_array(padrao);
+    }
+
+    int n = strlen(texto);
+    int i = 0, j = 0;
 
     while (i < n) {
         if (padrao[j] == texto[i]) {
@@ -57,6 +67,5 @@ int kmp(const char *texto, const char *padrao) {
             }
         }
     }
-
     return 0;
 }
